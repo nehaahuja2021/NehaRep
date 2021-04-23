@@ -31,7 +31,7 @@ codes and apps. Keep reading and I am sure you wont be bored!
 * A nice job after this training
 
 #### Things I value most while working in a team
-* Collaboration
+* Collaboration & Cooperation
 * Kindness, Respect & Trust
 * Happiness for everyone !!
 
