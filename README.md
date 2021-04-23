@@ -17,7 +17,7 @@ codes and apps. Keep reading and I am sure you wont be bored!
 * Sunshine & Trees & Nature & Food..list is endless!
 
 #### My objectives at Becode
-* Fulfil my dream of becoming a good web developer.
+* Fulfil my dream of becoming a front end developer.
 * Make good friends at Becode
 * Helping everyone & improving my skills & creativity
 
@@ -34,6 +34,8 @@ codes and apps. Keep reading and I am sure you wont be bored!
 * Collaboration & Cooperation
 * Kindness, Respect & Trust
 * Happiness for everyone !!
+
+
 
 >Thanks for reading it till the end!!
 
